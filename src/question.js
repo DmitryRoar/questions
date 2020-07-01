@@ -68,10 +68,11 @@ function getQuestionsFromLocalStorage() {
 
 function toCard(question) {
     return `
-<div class="mui--text-headline">
-${new Date(question.date).toLocaleDateString()}
-${new Date(question.date).toLocaleTimeString()}
-</div>
-<div>${question.text}</div>
-<br>`
+        <div class="mui--text-headline">
+            ${new Date(question.date).toLocaleDateString()}
+            ${new Date(question.date).toLocaleTimeString()}
+        </div>
+        <div>${question.text}</div>
+        <br>
+`
 }

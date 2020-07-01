@@ -57,7 +57,6 @@ function authFormHandler(event) {
 
 function renderModalAfterAuth(content) {
     if (typeof content === 'string') {
-        //error
         createModal('Error!', content)
     } else {
         createModal('List questions', Question.listToHTML(content))
