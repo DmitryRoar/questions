@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c469c439-57a1-402b-a470-5fe1dce2a71d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1e2mIvzzKZd0352Xpbw8XskBrEG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.3.0" />
+    <property name="jsx.switch.disabled" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../EXCEL" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="discord-application" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\blaki\Desktop\FED\other\PRACTICE\pdcst\src" />
+      <recent name="C:\Users\blaki\Desktop\FED\other\PRACTICE\pdcst\src\admin" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c469c439-57a1-402b-a470-5fe1dce2a71d" name="Default Changelist" comment="" />
+      <created>1593527986107</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593527986107</updated>
+      <workItem from="1593527988991" duration="990000" />
+      <workItem from="1593529013985" duration="2641000" />
+      <workItem from="1593532680772" duration="3982000" />
+      <workItem from="1593538580977" duration="3033000" />
+      <workItem from="1593542120969" duration="1675000" />
+      <workItem from="1593543855577" duration="8000" />
+      <workItem from="1593577631444" duration="8823000" />
+      <workItem from="1593596118202" duration="6875000" />
+      <workItem from="1593612409342" duration="43000" />
+      <workItem from="1593612454168" duration="1137000" />
+      <workItem from="1593613616964" duration="6205000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Usage_Scope" timestamp="1593528301946">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Usage_Scope/0.0.1920.1040@0.0.1920.1040" timestamp="1593528301946" />
+    <state x="717" y="310" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593587250165">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="717" y="310" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1593587250165" />
+    <state x="1239" y="278" key="FileChooserDialogImpl" timestamp="1593618658261">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1239" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1593618658261" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1593598634234">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1593598634234" />
+    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1593582527396">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1593582527396" />
+  </component>
+</project>
